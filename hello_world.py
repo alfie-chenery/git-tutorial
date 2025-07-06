@@ -1,5 +1,5 @@
 print("hello world!")
-x=1
+x=2
 print(x)
 y=2
 print(x*y)
